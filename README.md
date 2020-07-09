@@ -6,9 +6,9 @@ Ideally you would review all this content and solve the example exercises, and t
 ## Index
 * Primitive Types *(in progress)*
 * Arrays *(in progress)*
-* ~~Strings~~
+* Strings *(in progress)*
 * ~~Linked Lists~~
-* ~~Stacks~~
+* Stacks *(in progress)*
 * ~~Queues~~
 * ~~Binary Trees~~
 * ~~Heaps~~
